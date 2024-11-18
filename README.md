@@ -113,7 +113,7 @@ plt.show()
 ```
 
 ## Output:
-![alt text](Exp-7-Output.PNG)
-![alt text](Exp-7-Chart.PNG)
+<img width="671" alt="Screenshot 2024-11-14 at 11 25 42 AM" src="https://github.com/user-attachments/assets/ad30a609-549a-4500-b8d2-d5c9c4c06b16">
+
 ## Result:
 Thus, the SVM model was successfully implemented to classify food items for diabetic patients, with hyperparameter tuning optimizing the model's performance.
